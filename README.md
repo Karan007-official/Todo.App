@@ -76,7 +76,7 @@ TaskFlow-Pro/
 │   │
 │   ├── server.js
 │   ├── db.js
-│   ├── .env
+│   ├── .env  create .env file in backend Folder and write (DB_PASSWORD=Your MYSQL PASSWORD)
 │   ├── package.json
 │   └── node_modules/
 │
